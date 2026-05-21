@@ -1,6 +1,5 @@
 # ✈️ Flight Deal Alert System
-
-An automated flight monitoring system that searches Google Flights for user defined routes, applies price, duration, and layover filters, updates a Google Sheet with the lowest price found, and sends personalised email alerts.
+An end to end automated flight price monitoring and alerting pipeline that functions like a lightweight data engineering system with real time API ingestion, rule based decisioning, and scheduled notifications.
 
 The project demonstrates multi API integration, stateful data persistence, conditional alerting, and production style error handling using Python.
 
